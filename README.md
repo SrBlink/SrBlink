@@ -1,5 +1,5 @@
 ## Olá eu sou o Thyago!
-- Sou desenvolvedor Full Stack =D
+- Sou Engenheiro de Software full stack
 
 
 
